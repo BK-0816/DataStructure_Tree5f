@@ -1,3 +1,3 @@
 # DataStructure_Tree5f
-![](./Tree5f.jpg)
-![](./Tree5ff.jpg)
+![](./tree5f.jpg)
+![](./tree5ff.jpg)
